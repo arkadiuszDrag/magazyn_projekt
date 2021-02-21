@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63037b3c-0053-49f3-abd0-3a5f24d922fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Magazyn.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Magazyn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paleciak.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paleciak.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Produkt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Produkt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Towar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Towar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowarCiekly.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowarCielky.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowarSypki.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TowarSypki.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wyjątki.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfejs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfejs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdin2.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1onO52W2FdGDtdIcPxCzW9A0coG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63037b3c-0053-49f3-abd0-3a5f24d922fe" name="Default Changelist" comment="" />
+      <created>1613918702712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613918702712</updated>
+      <workItem from="1613918704971" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
